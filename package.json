@@ -1,0 +1,37 @@
+{
+  "name": "@darkwolf/keypath",
+  "version": "1.0.0",
+  "description": "KeyPath",
+  "type": "module",
+  "main": "./lib/index.cjs",
+  "exports": {
+    "import": "./lib/index.mjs",
+    "require": "./lib/index.cjs"
+  },
+  "engines": {
+    "node": ">=12"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Darkwolf/node-keypath.git"
+  },
+  "keywords": [
+    "key",
+    "path",
+    "property",
+    "nested",
+    "object"
+  ],
+  "author": "Pavel Wolf",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Darkwolf/node-keypath/issues"
+  },
+  "homepage": "https://github.com/Darkwolf/node-keypath#readme",
+  "dependencies": {
+    "@darkwolf/primordials": "^1.1.3"
+  }
+}
