@@ -32,6 +32,6 @@
   },
   "homepage": "https://github.com/Darkwolf/node-keypath#readme",
   "dependencies": {
-    "@darkwolf/primordials": "^1.1.3"
+    "@darkwolf/primordials": "^1.1.5"
   }
 }
