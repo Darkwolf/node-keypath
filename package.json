@@ -1,6 +1,6 @@
 {
   "name": "@darkwolf/keypath",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "KeyPath",
   "type": "module",
   "main": "./lib/index.cjs",
